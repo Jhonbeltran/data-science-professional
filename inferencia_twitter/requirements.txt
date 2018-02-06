@@ -1,2 +1,5 @@
 jupyter>=1.0.0
+tweepy>=3.5.0
+Unidecode>=1.0.22
+
 
