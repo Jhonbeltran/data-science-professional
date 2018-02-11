@@ -3,4 +3,5 @@ tweepy>=3.5.0
 Unidecode>=1.0.22
 psycopg2>=2.7.3.2
 numpy>=1.14.0
-scipy==1.0.0
+scipy>=1.0.0
+bokeh>=0.12.14
